@@ -1,0 +1,88 @@
+/*Esta hoja de estilo es de las subpaginas*/
+
+
+body { background-color: #7B6D64; }
+.enlace a{
+    margin-top: 10px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 80px;
+}
+.info{
+    width: 100%;
+    height: auto;
+    background: #93867F;
+    margin: auto;
+    padding-bottom: 30px;
+    }
+    .tituloseccion{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    border-bottom: 2px #fff8f0 solid;
+    padding: 15px;
+    }
+    .tituloinfo{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: auto;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline;
+    font-size: 25px;
+    }
+    .dato{
+    color: white;
+    font-family: 'Roboto', sans-serif;;
+    font-size: 20px;
+    display: inline;
+    height: auto;
+    width: 100%;
+    }
+    .ul{
+        color:white;
+        width: 100%;
+        height: auto;
+        font-family: 'Oswald', sans-serif;
+        font-size: 23px;
+}
+    .ul .li{
+            color: white;
+            width: 100%;
+            height: auto;
+            font-family: 'roboto', sans-serif;
+            font-size: 20px;
+}
+.table .th{
+    border-right: 2px solid white;
+}
+.info .tabla{
+    background-color:#93867F;
+    border-collapse: none;
+    border: none;
+    width:100%;
+    color: #ffffffff;
+    height: auto;
+    padding-bottom: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+     }
+    th{
+        border: 1px solid black;
+        font-family: 'Oswald',sans-serif;
+        font-weight: 300;
+        background-color: #7B6D64;
+
+    }
+    td{
+        border: 1px solid black;
+        font-family: 'roboto', sans-serif;
+      background-color: #7B6D64;
+
+    }
